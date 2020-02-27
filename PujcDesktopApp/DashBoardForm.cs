@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace PujcDesktopApp
 {
-    public partial class Form1 : Form
+    public partial class dashBoardForm : Form
     {
-        public Form1()
+        public dashBoardForm()
         {
             InitializeComponent();
+        }
+
+        private void dashBoardForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
