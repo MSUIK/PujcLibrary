@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PujcLibrary", "PujcLibrary\PujcLibrary.csproj", "{E5037674-C577-42A9-9D7F-79DB4FFB8485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PujcDesktopApp", "PujcDesktopApp\PujcDesktopApp.csproj", "{5BFC1B3F-C1BC-4FAB-AAB9-F896F6EDA6A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5037674-C577-42A9-9D7F-79DB4FFB8485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5037674-C577-42A9-9D7F-79DB4FFB8485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5037674-C577-42A9-9D7F-79DB4FFB8485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5037674-C577-42A9-9D7F-79DB4FFB8485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFC1B3F-C1BC-4FAB-AAB9-F896F6EDA6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFC1B3F-C1BC-4FAB-AAB9-F896F6EDA6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFC1B3F-C1BC-4FAB-AAB9-F896F6EDA6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFC1B3F-C1BC-4FAB-AAB9-F896F6EDA6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48CC66A8-3DC6-4AC5-AFAA-EA6AF8F8696A}
+	EndGlobalSection
+EndGlobal
